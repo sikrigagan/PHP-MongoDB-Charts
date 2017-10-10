@@ -1,0 +1,38 @@
+[
+  {
+    "_id": 1, "month": "Jan", "petrol" : 64.72, "diesel": 52.49
+  },
+  {
+    "_id": 2, "month": "Feb", "petrol" : 62.81, "diesel": 50.72
+  },
+  {
+    "_id": 3, "month": "Mar", "petrol" : 66.18, "diesel": 54.06
+  },
+  {
+    "_id": 4, "month": "Apr", "petrol" : 65.17, "diesel": 51.74
+  },
+  {
+    "_id": 5, "month": "May", "petrol" : 72.94, "diesel": 57.23
+  },
+  {
+    "_id": 6, "month": "Jun", "petrol" : 73.77, "diesel": 55.83
+  },
+  {
+    "_id": 7, "month": "Jul", "petrol" : 70.7, "diesel": 52.59
+  },
+  {
+    "_id": 8, "month": "Aug", "petrol" : 66.72, "diesel": 47.54
+  },
+  {
+    "_id": 9, "month": "Sept", "petrol" : 64.61, "diesel": 47.02
+  },
+  {
+    "_id": 10, "month": "Oct", "petrol" : 63.61, "diesel": 64.02
+  },
+  {
+    "_id": 11, "month": "Nov", "petrol" :68.61, "diesel": 65.92
+  },
+  {
+    "_id": 12, "month": "Dec", "petrol" : 67.61, "diesel": 68.02
+  }
+]
