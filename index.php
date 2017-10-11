@@ -1,7 +1,6 @@
 <!doctype html>
 
 <?php
-    require 'config.php';
 
     // including FusionCharts PHP wrapper
     require 'fusioncharts/fusioncharts.php';
@@ -15,6 +14,7 @@
     if(!$dbconn) {
         exit("There was an error establishing database connection");
     }
+
 ?>
 
 <html>
